@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Views 1</string>
+    <string name="hello">Hello World, SimpleViews!Activity!</string>
+    <string name="save">Save</string>
+    <string name="open_Btn">You have clicked the Open button</string>
+    <string name="open_btn">Open</string>
+    <string name="radiogroup_Btn1">Option 1</string>
+    <string name="radiogroup_btn2">Option 2</string>
+    <string name="switch_Text">Switch</string>
+    <string name="switch_Toast_Out">The Switch has been triggered</string>
+    <string name="AutoSaveC">AutoSave is checked</string>
+    <string name="AutoSaveU">AutoSave is unchecked</string>
+    <string name="autosave">Autosave</string>
+</resources>
